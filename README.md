@@ -8,7 +8,8 @@
 ```
     npm install
     npm install -g phantomjs
-```    ￼
+```    
+￼
 如何运行？
 切换到跟目录，运行
 
